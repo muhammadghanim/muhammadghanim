@@ -11,6 +11,13 @@ Saya juga dapat berkolaborasi dengan tim, memiliki rasa tanggung jawab dan selal
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ghanim-mukafih-3b0867286/)ku ya.
 
+<p align="left">
+<a href="https://github.com/muhammadghanim">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadghanim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadghanim&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **muhammadghanim/muhammadghanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
